@@ -1,0 +1,6 @@
+
+Warning: PHP Startup: Unable to load dynamic library 'gd2' (tried: c:/wamp64/bin/php/php8.1.6/ext/gd2 (Le module spécifié est introuvable), c:/wamp64/bin/php/php8.1.6/ext/php_gd2.dll (Le module spécifié est introuvable)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: c:/wamp64/bin/php/php8.1.6/ext/xmlrpc (Le module spécifié est introuvable), c:/wamp64/bin/php/php8.1.6/ext/php_xmlrpc.dll (Le module spécifié est introuvable)) in Unknown on line 0
+Psy Shell v0.11.5 (PHP 8.1.6 — cli) by Justin Hileman
+
